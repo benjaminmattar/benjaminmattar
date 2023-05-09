@@ -1,6 +1,7 @@
 
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: benjamin.pantoja@edu.pucrs.br
+- 📫 How to reach me: benjamin.pantoja@edu.pucrs.br (academic email)
+                       benjaminpmattar03@gmail.com (personal email)
 
 <div>
    <a href="https://github.com/benjaminmattar">
