@@ -6,6 +6,8 @@
 - 📫 How to reach me: **benjamin.pantoja@edu.pucrs.br (academic email)**
 
 - 📫 How to reach me: **benjaminpmattar03@gmail.com (personal email)**
+- I'm fluent in English
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
